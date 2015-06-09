@@ -20,9 +20,6 @@ Have fun
 ```
 
 #### DEMO
-```url
-[http://enoque-duarte.info/no-work/][1]
-```
 [http://enoque-duarte.info/no-work/][1]
 
 [1]: http://enoque-duarte.info/no-work/
