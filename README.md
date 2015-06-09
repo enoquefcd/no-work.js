@@ -3,7 +3,7 @@ no-work.js is a js lib that will allow you to join other nerds that are with no 
 
 So you dont feel so bored, you will need to create your own html file, feel free to style it yourself...
 
-## 1- Create an html including the script (you can use the provided link below, or host it yourself)
+#### 1- Create an html including the script (you can use the provided link below, or host it yourself)
 ```html
 <!DOCTYPE html>
 <html>
@@ -14,7 +14,7 @@ So you dont feel so bored, you will need to create your own html file, feel free
 </html>
 ```
 
-## 2-
+#### 2-
 ```html
 Have fun
 ```
